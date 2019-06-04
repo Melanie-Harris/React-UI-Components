@@ -6,7 +6,7 @@ const CalculatorDisplay= props =>{
         <div className="calculatorDisplay">
             <p className="thisDisplays">0</p>
         </div>
-    );
+    ); 
 };
 
 export default CalculatorDisplay;
