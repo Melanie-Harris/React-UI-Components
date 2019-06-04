@@ -6,11 +6,11 @@
 }
 
 .buttonStyle:hover {
-    background: lightgrey;
+    background: lightsteelblue;
 }
 
 .buttonStyle:active {
-    background: darkgrey;
+    background: lightskyblue;
 }
 
 /* ----- Number_Button Sections ----------------------- */

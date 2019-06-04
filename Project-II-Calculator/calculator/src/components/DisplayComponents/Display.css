@@ -6,7 +6,7 @@
     background: #222222;
 }
 
-.result {
+.thisDisplays {
     display: flex;
     justify-content: flex-end;
     align-items: center;
