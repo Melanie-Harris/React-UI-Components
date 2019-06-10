@@ -1,1 +1,35 @@
 /* All styles for your Card Components live here */
+
+/* .cardContainer {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 10 0px 0px 0px;
+} */
+
+.container {
+    border: 1px solid lightgrey;
+    float: right;
+    max-width: 90%;
+    border-radius: 3px;
+}
+
+/* React logo image*/
+
+.cardBanner {
+    width: 100%;
+    border-radius: 3px;
+}
+
+/* content below React logo */
+
+.cardContent {
+    padding: 0px 20px;
+}
+
+/* link */
+
+.webLinkReact {
+    color: grey;
+    text-decoration: none;
+}

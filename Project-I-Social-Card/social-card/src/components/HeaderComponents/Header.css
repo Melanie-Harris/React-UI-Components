@@ -1,5 +1,4 @@
 .headerTitle {
-    border: 1px solid black;
     display: flex;
 }
 
@@ -7,4 +6,17 @@ a {
     color: grey;
     padding-top: 38px;
     padding-left: 10px;
+}
+
+.headerContainer {
+    display: flex;
+}
+
+.lambdaLogo {
+    max-width: 55px;
+}
+
+.headerContent{
+max-width: 99%;
+padding-bottom: 13px;
 }
