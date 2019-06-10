@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import HeaderContainer from './headerComponents/HeaderContainer.js';
+import HeaderContainer from './components/HeaderComponents/HeaderContainer';
 
 const App = () => {
   return (
