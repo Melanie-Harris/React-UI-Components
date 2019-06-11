@@ -1,1 +1,41 @@
-/* All styles for your header Components live here */
+.headerTitle {
+    display: flex;
+}
+
+a {
+    color: grey;
+    padding-top: 38px;
+    padding-left: 10px;
+}
+
+.headerContainer {
+    display: flex;
+    float: right;
+}
+
+.lambdaLogo {
+    max-width: 55px;
+}
+
+.headerContent {
+    max-width: 99%;
+    padding-bottom: 13px;
+}
+
+/* ;
+@media(max-width: 1000px) {
+    .headerContent {
+        max-width: 99%;
+        padding-bottom: 13px;
+        padding-left: 5%;
+    }
+};
+@media(max-width: 1500px) {
+    .headerContent {
+        max-width: 99%;
+        padding-bottom: 13px;
+        padding-left: 4%;
+    }
+}
+
+; */

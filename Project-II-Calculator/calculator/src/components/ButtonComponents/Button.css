@@ -1,0 +1,50 @@
+.buttonStyle {
+    font-size: 35px;
+    cursor: pointer;
+    border: 1px solid grey;
+    height: 69px;
+}
+
+.buttonStyle:hover {
+    background: lightsteelblue;
+}
+  
+.buttonStyle:active {
+    background: lightskyblue;
+}
+
+/* ----- Number_Button Sections ----------------------- */
+
+.numberButton {
+    width: 25%;
+    font-weight: bold;
+    color: black;
+    background: white;
+}
+
+/* --------- Action_Button Sections ----------------- */
+
+.actionButton {
+    width: 25%;
+    color: white;
+    background: #A0001E;
+}
+
+.row .actionButton:hover {
+    background: rgb(204, 0, 38);
+}
+
+.row .actionButton:active {
+    background: rgb(114, 0, 21);
+}
+
+/* ---------Large_Button Sections ------------------- */
+
+.largeButton {
+    width: 75%;
+    background: white;
+}
+
+.zeroButton {
+    font-weight: bold;
+}
