@@ -12,6 +12,17 @@
     float: right;
     max-width: 90%;
     border-radius: 3px;
+    margin-right: 4%;
+}
+
+@media(max-width: 600) {
+    .container {
+        border: 1px solid lightgrey;
+        float: right;
+        max-width: 90%;
+        border-radius: 3px;
+        /* margin-right: -1%; */
+    }
 }
 
 /* React logo image*/
