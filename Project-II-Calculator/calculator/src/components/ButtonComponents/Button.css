@@ -6,9 +6,9 @@
 }
 
 .buttonStyle:hover {
-    background: lightsteelblue;
+    background: #FFF0F5;
 }
-  
+
 .buttonStyle:active {
     background: lightskyblue;
 }
@@ -27,11 +27,11 @@
 .actionButton {
     width: 25%;
     color: white;
-    background: #A0001E;
+    background: #FFC0CB;
 }
 
 .row .actionButton:hover {
-    background: rgb(204, 0, 38);
+    background: #DB7093;
 }
 
 .row .actionButton:active {
