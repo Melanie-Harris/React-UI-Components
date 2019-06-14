@@ -3,6 +3,7 @@ import './Button.css';
 
 const NumberButton = props => {
     return (
+        // buttonStyle and text are defined on Apps.js
         <button className={props.buttonStyle}>{props.text}</button>
     );
 };
